@@ -1,0 +1,181 @@
+Tllistproject
+v7
+r0
+t375163908.545820
+cCheck dependencies
+cCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/main.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/inputlib.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist_test.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c normal x86_64 c com.apple.compilers.gcc.4_2
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004A769DAB00000000000000EE
+t1249287595
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004A5C14A70000000000004174
+t1247548583
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004A5C14A70000000000002DF5
+t1247548583
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004A5C14A70000000000001731
+t1247548583
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/float.h
+c000000004A11EB240000000000001538
+t1242688292
+s5432
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/limits.h
+c000000004A11EB240000000000000C7E
+t1242688292
+s3198
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdbool.h
+c000000004A11EB240000000000000644
+t1242688292
+s1604
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/inputlib.h
+c000000004EAA1976000000000000096C
+t1319770486
+s2412
+i<float.h>
+i<limits.h>
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llist.h
+c0000000050A432300000000000000823
+t1352938032
+s2083
+i<stdio.h>
+i<stdbool.h>
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c
+c000000004EAA1976000000000000195C
+t1319770486
+s6492
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<stdbool.h>
+i"inputlib.h"
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c
+c0000000050AC513A0000000000001825
+t1353470266
+s6181
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<stdbool.h>
+i"llist.h"
+i"inputlib.h"
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c
+c0000000050AC3CD30000000000000B91
+t1353465043
+s2961
+i<stdlib.h>
+i<stdio.h>
+i"inputlib.h"
+i"llist.h"
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/llistproject
+t2
+s0
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/inputlib.o
+t1353471108
+s8328
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist.o
+t2
+s0
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist_test.o
+t1353471108
+s7184
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llistproject.LinkFileList
+c0000000050AC54830000000000000233
+t1353471107
+s563
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/main.o
+t1353471108
+s2700
+
+N/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c
+c0000000050AC543A0000000000000089
+t1353471034
+s137
+i<stdio.h>
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies375163907#375163907#0(0"0(0#1#0"32088628383449192#0"0#
+
+CCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/inputlib.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375163907.995517
+e375163908.478853
+r1
+xCompileC
+xbuild/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/inputlib.o
+x/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c375163907#375163908#0(0"0(0#0#72"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c7307761437599099904#1591"    cd /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-generated-files.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-own-target-headers.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-all-target-headers.hmap -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-project-headers.hmap -F/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/include -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources/x86_64 -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources -c /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../inputlib.c -o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/inputlib.o0#
+
+CCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375163908.477724
+e375163908.545741
+r0
+xCompileC
+xbuild/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist.o
+x/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c: In function 'find':
+o/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c:188: error: lvalue required as left operand of assignment
+lSLF07#2@77"Compile /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c375163908#375163908#0(219"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c: In function 'find':/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c:188: error: lvalue required as left operand of assignment1(4@45"Lvalue required as left operand of assignment375163908#91#128#0(6@69"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c375163066#188#0#188#0#0"0(0#0#69"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c4300882208#1585"    cd /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-generated-files.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-own-target-headers.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-all-target-headers.hmap -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-project-headers.hmap -F/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/include -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources/x86_64 -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources -c /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist.c -o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist.o1#
+
+CCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist_test.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375163908.409936
+e375163908.477627
+r1
+xCompileC
+xbuild/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist_test.o
+x/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c375163908#375163908#0(0"0(0#0#74"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c4300882208#1595"    cd /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-generated-files.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-own-target-headers.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-all-target-headers.hmap -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-project-headers.hmap -F/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/include -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources/x86_64 -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources -c /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/../llist_test.c -o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/llist_test.o0#
+
+CCompileC build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/main.o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s375163907.969454
+e375163908.409825
+r1
+xCompileC
+xbuild/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/main.o
+x/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c375163907#375163908#0(0"0(0#0#65"/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c7307761437599099904#1580"    cd /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-generated-files.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-own-target-headers.hmap -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-all-target-headers.hmap -iquote /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/llistproject-project-headers.hmap -F/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/include -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources/x86_64 -I/Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/DerivedSources -c /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/main.c -o /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/llistproject.build/Debug/llistproject.build/Objects-normal/x86_64/main.o0#
+
+CLd /Users/jameskeary/2618/Homework/ps5/ps5/llist/llistproject/build/Debug/llistproject normal x86_64
+r0
+
